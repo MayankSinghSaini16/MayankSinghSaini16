@@ -1,21 +1,21 @@
 <img src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"/>
 
-I am Akash, people call me <i>byomkeshbaksie</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development & Machine Learning 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
+I am Mayank Singh Saini, people call me <i>MayankSinghSaini16</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Android Development & FLutter 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
-<a href="https://www.linkedin.com/in/skysingh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="linkedin.com/in/mayank-singh-saini/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://twitter.com/_AKAASH_SINGH"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://byomkeshbaksie.medium.com//)](https://byomkeshbaksie.medium.com//"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
 <a href="mailto:akashpawan123321@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 
 
-### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=byomkeshbaksie.byomkeshbaksie)
+### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=MayankSinghSaini16.MayankSinghSaini16)
 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Web Dev.
+- 🛠 &nbsp; I’m currently working on App Dev.
 - 🚀 &nbsp; I’m currently in cool stuffs.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/byomkeshbaksie).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MayankSinghSaini16).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: I can do this all day! 
 
@@ -100,7 +100,7 @@ Find out more about me & feel free to connect with me here: <br>
 <img src="https://github-readme-stats.vercel.app/api?username=byomkeshbaksie&count_private=true&show_icons=true&include_all_commits=true&">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byomkeshbaksie&hide=&layout=compact&langs_count=10&">
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=byomkeshbaksie"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSinghSaini16"></p>
 <br>
 <figure><embed src="https://wakatime.com/share/@4e561f6a-44a1-492f-8b79-1a4300a4f5e6/70999eb5-762d-4baf-a189-dd83251cff6f.svg"></embed></figure>
 
