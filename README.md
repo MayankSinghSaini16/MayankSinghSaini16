@@ -34,10 +34,10 @@ Find out more about me & feel free to connect with me here: <br>
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-</tr>
+<!-- </tr>
 <tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -54,7 +54,7 @@ Find out more about me & feel free to connect with me here: <br>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-</tr>
+</tr> -->
 <tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
