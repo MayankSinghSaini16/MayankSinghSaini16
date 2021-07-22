@@ -3,9 +3,8 @@
 I am Mayank Singh Saini, people call me <i>MayankSinghSaini16</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Android Development & FLutter 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
 <a href="linkedin.com/in/mayank-singh-saini/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/_AKAASH_SINGH"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://byomkeshbaksie.medium.com//)](https://byomkeshbaksie.medium.com//"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
-<a href="mailto:akashpawan123321@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
+<a href="mailto:mayanksinghsaini16@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=MayankSinghSaini16.MayankSinghSaini16)
@@ -97,8 +96,8 @@ Find out more about me & feel free to connect with me here: <br>
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=byomkeshbaksie&count_private=true&show_icons=true&include_all_commits=true&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byomkeshbaksie&hide=&layout=compact&langs_count=10&">
+<img src="https://github-readme-stats.vercel.app/api?username=MayankSinghSaini16&count_private=true&show_icons=true&include_all_commits=true&">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSinghSaini16&hide=&layout=compact&langs_count=10&">
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankSinghSaini16"></p>
 <br>
