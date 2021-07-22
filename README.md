@@ -1,4 +1,4 @@
-<img src="https://www.whizsolutions.co.uk/wp-content/uploads/2018/12/Mobile_App_Development.jpg"/>
+<img src="https://blogs.acwits.com/blogimages/mobile-app-development-services-in-delhi-india.jpg"/>
 
 I am Mayank Singh Saini, people call me <i>MayankSinghSaini16</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Android Development & FLutter 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
